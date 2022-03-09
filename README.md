@@ -1,6 +1,6 @@
-<h1 align="center"><b>🍁 Fast & High Quality YT Downloader Bot For TG V.2 🚀</b></h1>
+<h1 align="center"><b>⚡️ Eplison ; Advanced TG video/audio Downloader bot ⚡️</b></h1>
 
-![logo](https://telegra.ph/file/f2fc2c81cd18c5ff542e8.jpg)
+![logo](https://telegra.ph/file/78c62808b682617dd22eb.jpg)
 <br>
 <p align="center"><b>
     Project YT DOWNLOADER Helps You To Download High Quality Videos From Youtube Fastly And All Are free Now
