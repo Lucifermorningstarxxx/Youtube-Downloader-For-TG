@@ -77,4 +77,4 @@ async def downloadaudiocli(command_to_exec):
 
     return t_response.split("Destination")[-1].split("Deleting")[0].split(":")[-1].strip()
 
-# 🍁 Fast & High Quality YT Downloader Bot 🔥
+# ⚡️ Eplison is the Fastest TG yt Downloader Bot ⚡️
