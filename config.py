@@ -12,4 +12,4 @@ HPIC = os.environ.get("HELP_PIC")
 youtube_next_fetch = 0 
 EDIT_TIME = 5
 
-# 🍁 Fast & High Quality YT Downloader Bot 🔥
+# •Thanks for Using Eplison⚡️ (Advanced Yt Video & audio Downloader bot For TG)
