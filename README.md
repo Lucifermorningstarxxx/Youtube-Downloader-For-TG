@@ -1,4 +1,4 @@
-<h1 align="center"><b>⚡️ Eplison ; Advanced TG video/audio Downloader bot ⚡️</b></h1>
+<h1 align="center"><b>⚡️ Eplison ⚡️ Advanced TG video/audio Downloader bot</b></h1>
 
 ![logo](https://telegra.ph/file/78c62808b682617dd22eb.jpg)
 <br>
